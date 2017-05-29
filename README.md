@@ -6,10 +6,11 @@
 
 ## Ближайший митап
 
-* 26.05.2017 Введение в Arduino
+* Про жизнь в Америке
 
 ## Прошедшие митапы
 
+* [Введение в Arduino](26-05-2017/README.md)
 * [React, Redux, dva.js](15-05-2017/README.md)
-* Git
+* [Git - tips and tricks](28-04-2017/RWADME.md)
 * Golang
