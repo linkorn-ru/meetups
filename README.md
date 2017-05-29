@@ -12,5 +12,5 @@
 
 * [Введение в Arduino](26-05-2017/README.md)
 * [React, Redux, dva.js](15-05-2017/README.md)
-* [Git - tips and tricks](28-04-2017/RWADME.md)
-* Golang
+* [Git - tips and tricks](28-04-2017/README.md)
+* [Golang](14-04-2017/README.md)
