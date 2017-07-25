@@ -8,9 +8,13 @@
 
 ## Будущие митапы
 
-* 21.07.2017 Секреты языка Python
+* 28.07.2017 Секреты языка Python
 
 ![Python](./img/Python.png)
+
+* Blockchain и Bitcoin
+* Deploy, Docker, CI, CD
+* Религии мира: Буддизм
 
 ## Прошедшие митапы
 
