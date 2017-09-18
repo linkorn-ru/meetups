@@ -8,12 +8,13 @@
 
 ## Будущие митапы
 
-* Blockchain и Bitcoin
-* Deploy, Docker, CI, CD
 * Религии мира: Буддизм
+* Deploy, Docker, CI, CD
+
 
 ## Прошедшие митапы
 
+* [Blockchain и Bitcoin](15-09-2017/README.md)
 * [Секреты языка Python](04-08-2017/README.md)
 * [Религии мира: Христианство](07-07-2017/README.md)
 * [Жизнь в Америке](07-06-2017/README.md)
